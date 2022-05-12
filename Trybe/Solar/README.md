@@ -1,0 +1,1 @@
+Projeto desenvolvido no curso e front end da trybe, utilizei os conhecimentos adquiridos em react estudados ate aqui e usei hofs aprendidas no bloco de fudamentos em desenvolvimento. O projeto foi desafiador e tive algumas dicas como as que comentei no codigo com ajuda de alguns devs.

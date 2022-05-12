@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+header {
+  margin: 15px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.solarSystem {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.solarSystem div {
+  margin-top: 90px;
+}
+
+.solarSystem img {
+  width: 150px;
+  margin-top: 20px;
+}
+
+.solarSystem p {
+  margin-left: 50px;
+  position: absolute;
+}
+
+.solarSystem h2{
+  margin: 0 auto;
+  position: absolute;
+}
+
+.solarSystem img:hover {
+  width: 200px;
+}
+
+.missionDiv {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.missionDiv h2 {
+  margin: 0 auto;
+  position: absolute;
+}
+
+.missions {
+  margin-top: 40px;
+  border: 1px solid white;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 20px;
+  width: 30%;
+}
+
+.missions p:first-child {
+  border-bottom: 2px solid white;
+  padding: 5px;
+}
+
+.missions:hover {
+  background-color: rgb(4, 122, 83);
+}
+
+@media  screen (min-with: 320px) {
+  
+}
